@@ -1,0 +1,28 @@
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.botoes{
+    text-align: center;
+    padding: 10px;
+}
+.calculadora{
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 800px;
+    height: 180px;
+    padding: 30px;
+    background-color: rgb(163, 163, 190);
+}
+.valores{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.resultado{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15px;
+}
